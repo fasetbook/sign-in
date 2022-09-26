@@ -1,6 +1,6 @@
 a=3
-name=["jack","mili","james","meiya","Hacker"]
-pwd=["jack888","mili777","james666","meiya555"]
+name=["jack","mili","james","meiya","Hacker","king"]
+pwd=["jack888","mili777","james666","meiya555","king1474457##$"]
 jack1='888'
 mili='777'
 james='666'
